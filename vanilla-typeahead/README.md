@@ -101,7 +101,7 @@ We can now see data on the view, but it's not very dynamic. Let's get our typeah
 
 ### Instructions
 
-* Open `index.html`.
+* Open `index.html`.  
 * Declare a variable called `search` beneath our `list` variable who's value is our `input` element.
 * Now that we have access to the input, we need a way to access the value we type into it.
   * Write a function called `filterText`.
